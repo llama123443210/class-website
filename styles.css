@@ -1,0 +1,40 @@
+p{
+  Color:Blue;
+  Font-size: 20px;
+  text-align:center;
+}
+
+.juan{
+  border-style:solid;
+}
+
+body{
+  width: 800px;
+  margin: auto;
+}
+
+
+nav ul li {
+  display:inline;
+  padding:8px;
+  border-style:solid;
+}
+nav{text-align:center;}
+
+img{
+  width:175px;
+}
+
+.img{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+}
+
+h1{
+  text-align:center;
+}
+form{
+  flex-direction:column;
+}
